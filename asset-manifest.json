@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-cloud/static/css/main.56a6a87c.css",
+    "main.js": "/word-cloud/static/js/main.0471842c.js",
+    "index.html": "/word-cloud/index.html",
+    "main.56a6a87c.css.map": "/word-cloud/static/css/main.56a6a87c.css.map",
+    "main.0471842c.js.map": "/word-cloud/static/js/main.0471842c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6a87c.css",
+    "static/js/main.0471842c.js"
+  ]
+}
